@@ -1,6 +1,7 @@
 # Named_Entity_Recognition
 
 Brief Summary
+
 For this project, we are tasked with a Named Entity Recognition (NER) problem. NER is a key subtask of NLP that is used in many areas such as news classification and search algorithms. We are provided with a dataset of 66,161 words along with a labeled Named Entity, if applicable. Therefore, this is a supervised classification problem.
 
 The dataset is an Annotated Corpus for Named Entity Recognition using GMB(Groningen Meaning Bank) corpus
